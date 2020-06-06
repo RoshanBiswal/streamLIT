@@ -1,0 +1,2 @@
+atom .
+streamlit run app.py
